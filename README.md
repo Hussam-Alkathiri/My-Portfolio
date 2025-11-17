@@ -11,7 +11,7 @@ This portfolio showcases my skills, projects, certifications, and provides an ea
 - 🎓 [Certificates](#-certificates)  
 - 💻 [Projects](#-projects)  
 - ✉️ [Contact](#-contact)  
-- 🧑‍💻 [Author](#-author)
+- 🧑‍💻 [Author](#-Author)
 
 ---
 
