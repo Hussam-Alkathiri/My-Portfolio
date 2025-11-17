@@ -1,0 +1,37 @@
+/* Hover effect للبطاقات (مشاريع + شهادات) */
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05); /* تكبر البطاقة 5% */
+    box-shadow: 0 15px 30px rgba(0,0,0,0.2); /* ظل أكبر */
+    cursor: pointer; /* مؤشر الماوس يتحول لليد عند المرور */
+}
+
+.project-card .card-img-top {
+    height: 180px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card-img-top {
+    width: 100%;
+    height: 180px;       /* ارتفاع ثابت لكل الصور */
+    object-fit: cover;   /* الصور تغطي البطاقة بدون تشويه */
+    border-radius: 10px; /* زوايا دائرية */
+}
+
+.navbar .nav-link {
+    transition: color 0.3s, transform 0.3s;
+}
+
+.navbar .nav-link:hover {
+    color: #17191c;  /* تغيير اللون عند المرور */
+    transform: scale(1.2); /* تكبير خفيف */
+}
+
+
+
+
+
